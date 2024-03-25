@@ -10,13 +10,5 @@
     {
         "agent": "Mathematics Educator",
         "description": "I can explain imaginary numbers. They are numbers that, when squared, result in a negative number. For example, the square root of -1 is represented as 'i'. Imaginary numbers extend the real numbers, allowing for solutions to certain equations that cannot be found in the realm of real numbers alone."
-    },
-    {
-        "agent": "Quantum Physicist for the General Public",
-        "description": "As a Quantum Physicist with a talent for making complex concepts accessible, I would specialize in breaking down quantum physics theories into easy-to-understand language for those without a technical background. I would avoid jargon and provide relatable, everyday examples to clarify these advanced scientific ideas."
-    },
-    {
-        "agent": "\"C# Software Engineer Specializing in Fractal Generation",
-        "description": "This expert has a strong background in programming and mathematics, with a focus on creating algorithms for generating fractal sequences in C#. They are proficient in random number generation and have experience in designing command line applications.\""
     }
 ]
