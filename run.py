@@ -113,7 +113,8 @@ def refine_response(expert_title: str, phase_two_response: str, user_input: str,
             )
             return completion.choices[0].message.content
 
-        refine_prompt = f"Act as {expert_title}, an expert on the topic, and perform a thorough scrutiny of the following response: {phase_two_response}. Consider how well it addresses the original question: {user_input}. If it can be done, refine and improve upon that response."
+        refine_prompt = f"Act as {expert_title}, an expert on the topic. Here is the original response to the question '{user_input}': {phase_two_response}\n\nPlease thoroughly review and refine this response, making improvements and addressing any shortcomings. Return an updated version of the response that incorporates your refinements."
+        
         refined_response = get_completion(refine_prompt)
         return refined_response
 
