@@ -28,7 +28,7 @@ def get_max_tokens(model_name: str) -> int:
     return MODEL_MAX_TOKENS.get(model_name, 4096)
 
 def refresh_page():
-    st.experimental_rerun()
+    st.rerun()
 
 def save_expert(expert_title: str, expert_description: str):
     with open(FILEPATH, 'r+') as file:

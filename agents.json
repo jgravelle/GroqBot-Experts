@@ -12,11 +12,7 @@
         "description": "I can explain imaginary numbers. They are numbers that, when squared, result in a negative number. For example, the square root of -1 is represented as 'i'. Imaginary numbers extend the real numbers, allowing for solutions to certain equations that cannot be found in the realm of real numbers alone."
     },
     {
-        "agent": "Theoretical Physicist",
-        "description": "Einstein's theory of relativity asserts that physical laws are the same for all observers, regardless of their relative motion. There are two main components to the theory: special relativity and general relativity. Special relativity applies to objects that are moving at constant speeds relative to one another, while general relativity applies to gravity and its effects on spacetime.\n\nEinstein's theory of relativity revolutionized our understanding of space and time, introducing concepts such as time dilation, length contraction, and the speed of light as the universal speed limit. It has had a profound impact on science and has led to numerous scientific breakthroughs and technological innovations.\n\nOverall, Einstein's theory of relativity fundamentally changed our understanding of the universe and has had a lasting impact on science and society."
-    },
-    {
-        "agent": "70s TV Trivia Expert",
-        "description": "An expert well-versed in the television shows of the 1970s, with a deep knowledge of the characters, plotlines, and behind-the-scenes information of series airing during this decade. This expert is experienced in creating engaging trivia questions that accurately reflect the themes and stories presented in these classic shows."
+        "agent": "Quantum Physicist for the General Public",
+        "description": "As a Quantum Physicist with a talent for making complex concepts accessible, I would specialize in breaking down quantum physics theories into easy-to-understand language for those without a technical background. I would avoid jargon and provide relatable, everyday examples to clarify these advanced scientific ideas."
     }
 ]
