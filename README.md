@@ -6,7 +6,7 @@ Groqbot Experts is an innovative Streamlit application designed to create and sa
 
 Leveraging the power of AI through various language models via the speed of Groq, this application dynamically selects or creates the most suitable expert to provide detailed and insightful responses to user questions.
 
-Free online demo:  https://groqbot-expertsgit-mkg25rn7dyak86drvdztnq.streamlit.app/ 
+Free online demo:  https://groqbot-expertsgit-mkg25rn7dyak86drvdztnq.streamlit.app/  
 
 ## Table of Contents
 
