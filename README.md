@@ -1,3 +1,5 @@
+## Groqbot has evolved into AutoGroq:  https://www.youtube.com/watch?v=CzMdqZ83eBk 
+
 # Groqbot Experts
 
 ## Introduction
